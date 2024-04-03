@@ -1,9 +1,9 @@
-dash==1.0.0
+dash==2.15.0
 gunicorn==19.9.0
-pillow==5.4.1
-scipy==1.2.1
-numpy==1.16.1
+pillow==10.3.0
+scipy==1.11.1
+numpy==1.22.0
 pandas==0.24.1
-Flask==1.0.1
+Flask==2.2.5
 dash-player==0.0.1
 pathlib==1.0.1
